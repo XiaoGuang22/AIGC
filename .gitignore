@@ -15,13 +15,12 @@ __pycache__/
 *.pt
 *.ckpt
 
-# 数据清单（>88MB GitHub 拒）+ 数据本体
-data/**/*.json
+# 数据清单（GitHub 单文件限 100MB，部分 JSON >200MB）+ 数据本体
 data/*.json
-**/dataset*.json
+data/**/*.json
 dataset/
 
-# .idea（IDE 配置，不应进仓库）
+# IDE
 .idea/
 
 # 系统

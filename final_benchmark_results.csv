@@ -1,0 +1,10 @@
+Generator,Acc (%),AP (%),AUC (%)
+ADM_inblip,65.56,76.54,75.17
+Glide_inblip,93.12,98.09,98.06
+Midjourney_inblip,89.77,96.52,96.56
+VQDM_inblip,65.88,78.33,79.64
+biggan_inblip,75.33,80.28,83.71
+stable_diffusion_v_1_4_inblip,95.8,99.53,99.54
+stable_diffusion_v_1_5_inblip,95.22,99.25,99.29
+wukong_inblip,92.58,97.53,97.71
+AVERAGE,84.1575,90.75875,91.21000000000001

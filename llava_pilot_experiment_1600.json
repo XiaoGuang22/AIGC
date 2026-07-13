@@ -1,0 +1,62 @@
+[
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n02281787_2765.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a beautiful butterfly perched on a green plant, possibly a leaf or a stem. The butterfly is the main subject of the image, and it is captured in a close-up shot, showcasing its intricate details. The lighting in the image is"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n07716358_3646.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a banana and a magazine on a table. The banana is placed next to the magazine, and both objects are on a checkered tablecloth. The lighting in the scene is soft and diffused, creating a cozy and inviting atmosphere. The banana appears"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n02025239_6715.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a small bird walking on a sandy beach. The bird is the main subject of the scene, and it appears to be walking across the sand. The lighting in the image is soft and diffused, creating a warm and inviting atmosphere. The texture of the sand is visible"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n07932039_3221.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a white bowl filled with six eggs, each with a distinct orange yolk. The eggs are arranged in a circular pattern, with some overlapping each other. The bowl is placed on a dining table, and the lighting in the scene is soft and diffused"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n03445777_18068.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a white golf ball with a blue and orange logo on it, sitting on a wooden floor. The lighting in the scene is soft and diffused, creating a warm and inviting atmosphere. The wooden floor adds a natural texture to the scene, while the golf ball itself appears to"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n02012849_14369.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a white bird perched on a tree branch. The bird is the main subject of the scene, and it appears to be a large white bird with a long beak. The bird is positioned in the center of the image, with its beak pointing towards the ground."
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n01534433_22785.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a small bird perched on a branch in a snowy environment. The bird is the main subject of the scene, and it appears to be looking at the camera. The branch is covered in snow, creating a wintry atmosphere.\n\nThe lighting in the image is soft"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n02443484_7601.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a small, cute animal, possibly a cat or a weasel, sitting inside a cage. The cage is made of metal and has a plaid blanket draped over it. The animal is positioned in the middle of the cage, with its"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n04550184_13054.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a clothing rack with various garments hanging on it. The clothing items are arranged in a way that makes it easy to see the different options available. The lighting in the scene is soft and diffused, creating a pleasant atmosphere.\n\nThe clothing items"
+    },
+    {
+        "image_path": "/home/liangpeng/LYK/dataset/GenImage/stable_diffusion_v_1_4/imagenet_ai_0419_sdv4/train/nature/n04562935_12960.JPEG",
+        "label": 0,
+        "generator": "sdv1_4",
+        "caption": "The image features a large white water tower with red lettering, standing tall in the sky. The tower is prominently displayed in the scene, with a clear view of its structure and text. The sky above the tower is cloudy, adding a sense of depth and atmosphere to the image."
+    }
+]

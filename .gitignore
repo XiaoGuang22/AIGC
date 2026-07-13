@@ -1,0 +1,30 @@
+# 大文件目录（绝不能进 git）
+checkpoints/
+save_checkpoints/
+weights/
+weights_2/
+results/
+runs/
+venv/
+__pycache__/
+*.pyc
+
+# 模型权重
+*.pth
+*.bin
+*.pt
+*.ckpt
+
+# 数据清单（>88MB GitHub 拒）+ 数据本体
+data/**/*.json
+data/*.json
+**/dataset*.json
+dataset/
+
+# .idea（IDE 配置，不应进仓库）
+.idea/
+
+# 系统
+.DS_Store
+*.swp
+*.log
